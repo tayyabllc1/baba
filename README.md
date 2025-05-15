@@ -8,3 +8,4 @@ This is an AI-powered customer service agent built with FastAPI and OpenAI's GPT
 
 ```bash
 pip install -r requirements.txt
+uvicorn main:app --reload
